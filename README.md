@@ -1,4 +1,4 @@
-## OLÁ, SEJE BEM VINDO AO MEU PERFIL
+## OLÁ, SEJA BEM VINDO AO MEU PERFIL
 
 
 <div align="center">
