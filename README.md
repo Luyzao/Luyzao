@@ -1,7 +1,5 @@
-## Oláá, sou Luiz Gustavo (Luyzao)
+## OLÁ, SEJE BEM VINDO AO MEU PERFIL
 
-- 👀 Interessado em aprender e ajudar;
-- 📚 Estudo na Escola Tecnica Bento Quirino-(Cmapinas-SP);
 
 <div align="center">
   <a href="https://github.com/Luyzao">
