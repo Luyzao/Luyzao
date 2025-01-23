@@ -1,7 +1,10 @@
 ## OLÁ, SEJA BEM VINDO AO MEU PERFIL
 
 
-
+<div align="center">
+  <a href="https://github.com/Luyzao">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luyzao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</div>
   
  <div style="display: incline_block"><br>
   
