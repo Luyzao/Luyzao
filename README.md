@@ -1,5 +1,8 @@
 <h1 align="center">🤖⚡ TRANSFORMANDO CÓDIGOS EM REALIDADE ⚡🤖</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JtBZmzjnj8rK6/giphy.gif" height="200"/>
+</p>
 
 ---
 
@@ -26,23 +29,16 @@
 
 ---
 
-## 📈 Métricas GitHub
+## 📈 Métricas GitHub e Linguagens mais usadas 🌐
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luyzao&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff0000&text_color=00ff00"/>
   <img height="150em" src="https://streak-stats.demolab.com/?user=Luyzao&theme=tokyonight&hide_border=true&ring=ff0000&fire=00ff00"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luyzao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 ---
 
-## 🌐 Linguagens mais usadas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luyzao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luyzao&theme=react-dark&bg_color=1a1b27&color=00ff00&line=ff0000&point=ffffff&hide_border=true"/>
-</p>
-
----
 
 ## 🛰️ Atividade recente
 
