@@ -25,24 +25,25 @@
 
 ---
 
-## 📈 Métricas GitHub e Linguagens mais usadas 🌐
+## 📈 Métricas GitHub e Linguagens mais usadas 🌐 + Atividade Recente
 
-<div align="end">
-  <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=Luyzao&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff0000&text_color=00ff00"/>
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luyzao&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff0000&text_color=00ff00"/>
   <img height="150em" src="https://streak-stats.demolab.com/?user=Luyzao&theme=tokyonight&hide_border=true&ring=ff0000&fire=00ff00"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luyzao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
----
-
-
-## 🛰️ Atividade recente
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luyzao&theme=react-dark&bg_color=1a1b27&color=00ff00&line=ff0000&point=ffffff&hide_border=true"/>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luyzao&theme=react-dark&bg_color=1a1b27&color=00ff00&line=ff0000&point=ffffff&hide_border=true"/>
+  ⚠️ Caso o gráfico de atividade não carregue corretamente, tente usar <a href="https://github.com/Platane/snk">Platane/snk</a> para um estilo cobra animado!
 </p>
-
-> ⚠️ Caso não apareça, considere usar a alternativa [Platane/snk](https://github.com/Platane/snk) para um gráfico animado de contribuições estilo cobra!
 
 ---
 
