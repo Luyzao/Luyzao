@@ -1,8 +1,5 @@
 <h1 align="center">🤖⚡ TRANSFORMANDO CÓDIGOS EM REALIDADE ⚡🤖</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JtBZmzjnj8rK6/giphy.gif" height="200"/>
-</p>
 
 ---
 
@@ -42,6 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luyzao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luyzao&theme=react-dark&bg_color=1a1b27&color=00ff00&line=ff0000&point=ffffff&hide_border=true"/>
 </p>
 
 ---
