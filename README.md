@@ -1,23 +1,24 @@
-<h1 align="center">⚡ TRANSFORMANDO CÓDIGOS EM REALIDADE ⚡</h1>
+<h1 align="center">🤖⚡ TRANSFORMANDO CÓDIGOS EM REALIDADE ⚡🤖</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luyzao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://media.giphy.com/media/JtBZmzjnj8rK6/giphy.gif" height="200"/>
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-> 👋 Opa! Me chamo Luiz Gustavo, sou apaixonado por tecnologia, desenvolvimento fullstack e tudo que envolve código, café ☕ e desafios.
+> 🔥 Opa! Me chamo **Luiz Gustavo**, sou apaixonado por tecnologia, desenvolvimento fullstack e tudo que envolve **código**, **café ☕**, **Transformers** e **desafios**.  
+> 🚀 Atualmente explorando o mundo do desenvolvimento web moderno com foco em interfaces incríveis!
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🧰 Tecnologias que uso
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
@@ -28,20 +29,30 @@
 
 ---
 
-## 📊 Métricas GitHub
+## 📈 Métricas GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luyzao&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://streak-stats.demolab.com/?user=Luyzao&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luyzao&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff0000&text_color=00ff00"/>
+  <img height="150em" src="https://streak-stats.demolab.com/?user=Luyzao&theme=tokyonight&hide_border=true&ring=ff0000&fire=00ff00"/>
 </div>
 
 ---
 
-## 💾 Gráfico de Atividades
+## 🌐 Linguagens mais usadas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Luyzao&theme=react-dark&bg_color=1a1b27&color=00ff00&line=ff0000&point=ffffff&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luyzao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
+
+---
+
+## 🛰️ Atividade recente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luyzao&theme=react-dark&bg_color=1a1b27&color=00ff00&line=ff0000&point=ffffff&hide_border=true"/>
+</p>
+
+> ⚠️ Caso não apareça, considere usar a alternativa [Platane/snk](https://github.com/Platane/snk) para um gráfico animado de contribuições estilo cobra!
 
 ---
 
@@ -55,11 +66,10 @@
     <img src="https://img.shields.io/badge/Instagram-00ff00?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/luiz-gustavo-687b6721b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 </p>
 
 ---
 
-## 🔥 ASCII + Nerd Vibes
 
