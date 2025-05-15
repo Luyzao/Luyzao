@@ -41,9 +41,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luyzao&theme=react-dark&bg_color=1a1b27&color=00ff00&line=ff0000&point=ffffff&hide_border=true"/>
 </div>
 
-<p align="center">
-  ⚠️ Caso o gráfico de atividade não carregue corretamente, tente usar <a href="https://github.com/Platane/snk">Platane/snk</a> para um estilo cobra animado!
-</p>
 
 ---
 
