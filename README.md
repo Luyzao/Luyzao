@@ -27,7 +27,7 @@
 
 ## 📈 Métricas GitHub e Linguagens mais usadas 🌐
 
-<div align="center">
+<div align="end">
   <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=Luyzao&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff0000&text_color=00ff00"/>
   <img height="150em" src="https://streak-stats.demolab.com/?user=Luyzao&theme=tokyonight&hide_border=true&ring=ff0000&fire=00ff00"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luyzao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
