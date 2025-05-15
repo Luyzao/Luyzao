@@ -1,15 +1,14 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" style="background-color: white; border-radius: 5px; padding: 2px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-
 </p>
 
 <h1 align="center">🤖⚡ TRANSFORMANDO CÓDIGOS EM REALIDADE ⚡🤖</h1>
@@ -52,22 +51,6 @@
 </div>
 
 
----
 
-## 🔗 Contatos
-
-<p align="center">
-  <a href="mailto:jhhhhhhh58@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/Luyzaohp" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-00ff00?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/luiz-gustavo-687b6721b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-</p>
-
----
 
 
