@@ -1,32 +1,58 @@
-## OLÁ, SEJA BEM VINDO AO MEU PERFIL
+<h1 align="center">
+  ⚡ TRANSFORMANDO CÓDIGOS EM REALIDADE ⚡
+</h1>
 
+<p align="center">
+  <img src="https://i.gifer.com/origin/f1/f1e83ffcd21c25562d7b4059bfb6e98e.gif" width="300px" alt="Transformers gif">
+</p>
 
-<div align="center">
-  <a href="https://github.com/Luyzao">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luyzao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=luyzao&theme=midnight-purple&hide_border=true&layout=compact&langs_count=7"/>
-</div>
-  
- <div style="display: incline_block"><br>
-  
-    
-<img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="vinicius-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="vinicius-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">   
-            <img align="center" alt="vinicius-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="vinicius-Mysql" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="vinicius-Dart" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg">
-  </div>
-  
-  
-  ##
-<div> 
-  <a href="https://instagram.com/Luyzaohp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/preajoga" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jhhhhhhh58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-gustavo-687b6721b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+---
 
- 
-</div>
+## 🧠 Sobre mim
+
+> 👋 Opa! Me chamo Luiz Gustavo, sou apaixonado por tecnologia, desenvolvimento fullstack e tudo que envolve código, café ☕ e desafios.
+
+---
+
+## 🚀 Tecnologias que uso
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="50" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+</p>
+
+---
+
+## 📊 Skills em Destaque
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Luyzao&theme=react-dark&bg_color=151515&color=ff0000&line=00ff00&point=ffffff&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contatos
+
+<p align="center">
+  <a href="mailto:jhhhhhhh58@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/Luyzaohp" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-00ff00?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luiz-gustavo-687b6721b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+</p>
+
+---
+
+## 🔥 ASCII + Nerd Vibes
+
