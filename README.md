@@ -45,7 +45,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luyzao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
   
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Luyzao&theme=react-dark&bg_color=1a1b27&color=00ff00&line=ff0000&point=ffffff&hide_border=true&area=true"/>
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Luyzao&theme=react-dark&bg_color=1a1b27&color=00ff00&line=ff0000&point=ffffff&hide_border=true&area=true"/>
 </div>
 
 
